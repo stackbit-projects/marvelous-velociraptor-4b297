@@ -5,6 +5,7 @@ sections:
     title: psgins1
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
+    image: /images/descarga.png
   - type: features_section
     features:
       - title: Feature 1
